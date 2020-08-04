@@ -10,4 +10,4 @@ class Person
 end
 
 # notes same as you did in "doc class , create a "class" "person" and define what a person would do.
-#  a person walks , and talks "some should not"!
+#  a person walks , and talks "some should not"! make sure to use def for every "instance method toy create this will change later"!
