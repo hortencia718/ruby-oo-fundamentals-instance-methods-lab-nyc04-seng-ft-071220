@@ -9,4 +9,4 @@ class Dog
     
 end
 
-# 
+# define a "class "Dog make sure its in caps ! and make it do something like "bark " ! and create a realistic thing a dog would do like say "Woof" ! 
